@@ -1,6 +1,6 @@
 {
-    "name": "zendframework/zendframework",
-    "description": "Zend Framework",
+    "name": "aidi-software/zendframework",
+    "description": "Aidi Zend Framework Fork",
     "type": "metapackage",
     "keywords": [
         "framework",

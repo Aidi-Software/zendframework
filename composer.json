@@ -1,6 +1,6 @@
 {
-    "name": "zendframework/zendframework",
-    "description": "Zend Framework 2",
+    "name": "aidi-software/zendframework",
+    "description": "Aidi Zend Framework 2 Fork",
     "type": "library",
     "keywords": [
         "framework",

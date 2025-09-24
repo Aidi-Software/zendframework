@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## 2.4.14 (2025-09-24)
+
+- Fix Vulnerability GHSA-fh7r-58q4-6387
+- Fix Vulnerability CVE-2021-3007
+
 ## 2.4.13 (2017-07-13)
 
 - Restores php 5.3 compat in HeaderValue.

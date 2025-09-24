@@ -11,13 +11,13 @@ Develop:
 
 ## RELEASE INFORMATION
 
-*Zend Framework 2.4.13*
+*Zend Framework 2.4.14*
 
 This is a maintenance release in the version 2.4 series.
 
-13 July 2017
+24 Sept 2025
 
-### UPDATES IN 2.4.13
+### UPDATES IN 2.4.14
 
 Please see [CHANGELOG.md](CHANGELOG.md).
 
